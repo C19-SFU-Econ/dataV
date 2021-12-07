@@ -11,9 +11,9 @@
 3. CAN_Data_deaths.csv                                               
     - COVID-19 deaths data for the 10 Canadian provinces (official sources, including revisions up to Oct. 31, 2021)  
 4. CAN_Data_hospitalizations.xlsx                                                
-    - COVID-19 hospitalizations data for the 10 Canadian provinces (Source: [COVID-19 Tracker Canada](https://covid19tracker.ca))  
+    - COVID-19 hospitalizations data for the 10 Canadian provinces (Source: [COVID-19 Tracker Canada](http://covid19tracker.ca))  
 5. OWID-covid-data.xlsx
-    - COVID-19 data from France, Italy, Germany and Spain (Source: Our World in Data, ourworldindata.org)
+    - COVID-19 data from France, Italy, Germany and Spain (Source: [Our World in Data], (http://ourworldindata.org))
 
 
 ### Terms of use
