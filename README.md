@@ -5,7 +5,7 @@
 
 ## Data files description
 1. CAN_Data_vaccines.xlsx
-    - COVID-19 vaccinations data for the 10 Canadian provinces (official sources, including revisions up to Oct. 31, 2021; see Appendix C for details)
+    - COVID-19 vaccinations data for the 10 Canadian provinces (official sources, including revisions up to Oct. 31, 2021; see Appendix C of the paper for more details)
 2. CAN_Data_cases.csv
     - COVID-19 cases data for the 10 Canadian provinces (official sources, including revisions up to Oct. 31, 2021)  
 3. CAN_Data_deaths.csv                                               
