@@ -13,7 +13,7 @@
 4. CAN_Data_hospitalizations.xlsx                                                
     - COVID-19 hospitalizations data for the 10 Canadian provinces (Source: [COVID-19 Tracker Canada](http://covid19tracker.ca))  
 5. OWID-covid-data.xlsx
-    - COVID-19 data from France, Italy, Germany and Spain (Source: [Our World in Data], (http://ourworldindata.org))
+    - COVID-19 data from France, Italy, Germany and Spain (Source: [Our World in Data](http://ourworldindata.org))
 
 
 ### Terms of use
