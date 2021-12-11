@@ -14,6 +14,8 @@
     - COVID-19 hospitalizations data for the 10 Canadian provinces (Source: [COVID-19 Tracker Canada](http://covid19tracker.ca), data downloaded Nov. 12, 2021)  
 5. OWID-covid-data.xlsx
     - COVID-19 data from France, Italy, Germany and Spain (Source: [Our World in Data](http://ourworldindata.org), data downloaded Nov. 6, 2021)
+6. owid_data_3110cleaned.dta
+    - the data from 5 in Stata format
 
 
 ### Terms of use
