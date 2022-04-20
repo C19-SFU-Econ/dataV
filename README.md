@@ -1,6 +1,6 @@
 # Data used in 
-## Karaivanov, Kim, Lu and Shigeoka (2021)  
-# ["COVID-19 Vaccination Mandates and Vaccine Uptake"](https://www.medrxiv.org/content/10.1101/2021.10.21.21265355v1) 
+## Karaivanov, Kim, Lu and Shigeoka (2022)  
+# ["COVID-19 Vaccination Mandates and Vaccine Uptake"](https://www.medrxiv.org/content/10.1101/2021.10.21.21265355v4) 
 
 
 ## Data files description
